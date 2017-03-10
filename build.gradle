@@ -15,4 +15,5 @@ repositories {
 
 dependencies {
     compile'org.springframework.boot:spring-boot-starter-web:1.2.6.RELEASE'
+    compile 'org.thymeleaf:thymeleaf-spring3:3.0.3.RELEASE'
 }
